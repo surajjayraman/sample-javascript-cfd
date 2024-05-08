@@ -1,4 +1,4 @@
-# Sample Javascript App - Vue.JS Front-End 
+# Sample Javascript App - Vue.JS Front-End 🚀
 
 [![CircleCI Build Status](https://circleci.com/gh/CircleCI-Public/sample-javascript-cfd.svg?style=shield)](https://circleci.com/gh/CircleCI-Public/sample-javascript-cfd) [![Software License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/CircleCI-Public/sample-javascript-cfd/main/LICENSE)
 
